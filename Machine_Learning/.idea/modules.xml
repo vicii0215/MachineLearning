@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/21个项目/.idea/21个项目.iml" filepath="E:/21个项目/.idea/21个项目.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Meachine_Learning.iml" filepath="$PROJECT_DIR$/.idea/Meachine_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Meachine_learning实战/.idea/Meachine_learning实战.iml" filepath="$PROJECT_DIR$/../Meachine_learning实战/.idea/Meachine_learning实战.iml" />
+      <module fileurl="file://E:/tensorflow_works/.idea/tensorflow_works.iml" filepath="E:/tensorflow_works/.idea/tensorflow_works.iml" />
+      <module fileurl="file://E:/python/算法/建模实验/.idea/建模实验.iml" filepath="E:/python/算法/建模实验/.idea/建模实验.iml" />
+      <module fileurl="file://E:/python/新建文件夹/python2017projects/机器学习实战/.idea/机器学习实战.iml" filepath="E:/python/新建文件夹/python2017projects/机器学习实战/.idea/机器学习实战.iml" />
+      <module fileurl="file://E:/深度学习之神经网络(CNN RNN GAN)/.idea/深度学习之神经网络(CNN RNN GAN).iml" filepath="E:/深度学习之神经网络(CNN RNN GAN)/.idea/深度学习之神经网络(CNN RNN GAN).iml" />
+    </modules>
+  </component>
+</project>
